@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "810088496805",
+    "project_id": "roka-store-c938b",
+    "storage_bucket": "roka-store-c938b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810088496805:android:e6355fc42dc3fbf08d574c",
+        "android_client_info": {
+          "package_name": "com.abuarin.roka_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810088496805-p91g5c9u78caffocu9allp9m81l3r8pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOo_eARtYudzg2JHmAhUvHzGCRAyZBuDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810088496805-p91g5c9u78caffocu9allp9m81l3r8pr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810088496805-llir0efs59ap83jrlmrdfk4imdrtj6oj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abuarin.rokastore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810088496805:android:47e5bb39a5f5cb378d574c",
+        "android_client_info": {
+          "package_name": "com.abuarin.rokastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810088496805-bo8ro1so4390ftsu39oksmdguie3n48q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abuarin.rokastore",
+            "certificate_hash": "3a715d4056e257a5207a4e9d8cf625ba05374be9"
+          }
+        },
+        {
+          "client_id": "810088496805-p91g5c9u78caffocu9allp9m81l3r8pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOo_eARtYudzg2JHmAhUvHzGCRAyZBuDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810088496805-p91g5c9u78caffocu9allp9m81l3r8pr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810088496805-llir0efs59ap83jrlmrdfk4imdrtj6oj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abuarin.rokastore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
